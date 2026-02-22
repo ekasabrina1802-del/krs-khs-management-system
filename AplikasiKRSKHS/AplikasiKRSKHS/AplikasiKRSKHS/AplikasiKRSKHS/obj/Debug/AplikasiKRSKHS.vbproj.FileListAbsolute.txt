@@ -1,0 +1,69 @@
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.exe.config
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.exe
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.pdb
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.xml
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Form1.resources
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Resources.resources
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.GenerateResource.cache
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.exe
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.xml
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.pdb
+C:\Users\Hp\source\repos\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.exe.config
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.exe.config
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.exe
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.pdb
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.xml
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.AssemblyReference.cache
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Login.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Resources.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_Dosen.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_FakultasProdi.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_JadwalPerkuliahan.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_Mahasiswa.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_Ruangan.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_Semester.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.DasboardMahasiswa.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.DashboardAdmin.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_LMS.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_JadwalPerkuliahan.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_KHS.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_KRS.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_Profile.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_TranskipNilai.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.GenerateResource.cache
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.CoreCompileInputs.cache
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.exe
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.xml
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.pdb
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.exe.config
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.EditJadwalAdm.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.TambahJadwal_Adm.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.exe.config
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.exe
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.pdb
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\bin\Debug\AplikasiKRSKHS.xml
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.AssemblyReference.cache
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.exe.config
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Login.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Resources.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_Dosen.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_FakultasProdi.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_JadwalPerkuliahan.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_Mahasiswa.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_Ruangan.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Adm_Semester.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.DasboardMahasiswa.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.DashboardAdmin.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.EditJadwalAdm.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_LMS.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_JadwalPerkuliahan.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_KHS.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.Mhs_KRS.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.TambahJadwal_Adm.resources
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.GenerateResource.cache
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.vbproj.CoreCompileInputs.cache
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.exe
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.xml
+D:\Projek Visual Studio\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\AplikasiKRSKHS\obj\Debug\AplikasiKRSKHS.pdb

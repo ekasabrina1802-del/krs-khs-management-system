@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BDB98E1D-9177-476A-BD80-3F35AA9CE2E9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AplikasiKRSKHS.My.MyApplication</StartupObject>
+    <RootNamespace>AplikasiKRSKHS</RootNamespace>
+    <AssemblyName>AplikasiKRSKHS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AplikasiKRSKHS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AplikasiKRSKHS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resources\Adm_Dosen.Designer.vb">
+      <DependentUpon>Adm_Dosen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Adm_Dosen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Adm_FakultasProdi.Designer.vb">
+      <DependentUpon>Adm_FakultasProdi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Adm_FakultasProdi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Adm_JadwalPerkuliahan.Designer.vb">
+      <DependentUpon>Adm_JadwalPerkuliahan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Adm_JadwalPerkuliahan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Adm_Mahasiswa.Designer.vb">
+      <DependentUpon>Adm_Mahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Adm_Mahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Adm_Ruangan.Designer.vb">
+      <DependentUpon>Adm_Ruangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Adm_Ruangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Adm_Semester.Designer.vb">
+      <DependentUpon>Adm_Semester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Adm_Semester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\DasboardMahasiswa.Designer.vb">
+      <DependentUpon>DasboardMahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\DasboardMahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\DashboardAdmin.Designer.vb">
+      <DependentUpon>DashboardAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\DashboardAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\EditJadwalAdm.Designer.vb">
+      <DependentUpon>EditJadwalAdm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\EditJadwalAdm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Mhs_LMS.Designer.vb">
+      <DependentUpon>Mhs_LMS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Mhs_LMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Mhs_JadwalPerkuliahan.Designer.vb">
+      <DependentUpon>Mhs_JadwalPerkuliahan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Mhs_JadwalPerkuliahan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Mhs_KHS.Designer.vb">
+      <DependentUpon>Mhs_KHS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Mhs_KHS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Mhs_KRS.Designer.vb">
+      <DependentUpon>Mhs_KRS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Mhs_KRS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\TambahJadwal_Adm.Designer.vb">
+      <DependentUpon>TambahJadwal_Adm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\TambahJadwal_Adm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Adm_Dosen.resx">
+      <DependentUpon>Adm_Dosen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Adm_FakultasProdi.resx">
+      <DependentUpon>Adm_FakultasProdi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Adm_JadwalPerkuliahan.resx">
+      <DependentUpon>Adm_JadwalPerkuliahan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Adm_Mahasiswa.resx">
+      <DependentUpon>Adm_Mahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Adm_Ruangan.resx">
+      <DependentUpon>Adm_Ruangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Adm_Semester.resx">
+      <DependentUpon>Adm_Semester.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\DasboardMahasiswa.resx">
+      <DependentUpon>DasboardMahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\DashboardAdmin.resx">
+      <DependentUpon>DashboardAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\EditJadwalAdm.resx">
+      <DependentUpon>EditJadwalAdm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Mhs_LMS.resx">
+      <DependentUpon>Mhs_LMS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Mhs_JadwalPerkuliahan.resx">
+      <DependentUpon>Mhs_JadwalPerkuliahan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Mhs_KHS.resx">
+      <DependentUpon>Mhs_KHS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Mhs_KRS.resx">
+      <DependentUpon>Mhs_KRS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\TambahJadwal_Adm.resx">
+      <DependentUpon>TambahJadwal_Adm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light-bulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0684456b-aa2b-4631-86f7-93ceaf33303c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hapus.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hapus.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

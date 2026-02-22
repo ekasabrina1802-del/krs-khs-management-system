@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projek Visual Studio\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB98E1D-9177-476A-BD80-3F35AA9CE2E9}|AplikasiKRSKHS\\AplikasiKRSKHS.vbproj|d:\\projek visual studio\\aplikasikrskhs\\aplikasikrskhs\\aplikasikrskhs\\aplikasikrskhs\\aplikasikrskhs\\resources\\dasboardmahasiswa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDB98E1D-9177-476A-BD80-3F35AA9CE2E9}|AplikasiKRSKHS\\AplikasiKRSKHS.vbproj|solutionrelative:aplikasikrskhs\\resources\\dasboardmahasiswa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB98E1D-9177-476A-BD80-3F35AA9CE2E9}|AplikasiKRSKHS\\AplikasiKRSKHS.vbproj|D:\\Projek Visual Studio\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\aplikasikrskhs\\resources\\mhs_jadwalperkuliahan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{BDB98E1D-9177-476A-BD80-3F35AA9CE2E9}|AplikasiKRSKHS\\AplikasiKRSKHS.vbproj|solutionrelative:aplikasikrskhs\\resources\\mhs_jadwalperkuliahan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mhs_JadwalPerkuliahan.vb [Design]",
+              "DocumentMoniker": "D:\\Projek Visual Studio\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\Resources\\Mhs_JadwalPerkuliahan.vb",
+              "RelativeDocumentMoniker": "AplikasiKRSKHS\\Resources\\Mhs_JadwalPerkuliahan.vb",
+              "ToolTip": "D:\\Projek Visual Studio\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\Resources\\Mhs_JadwalPerkuliahan.vb [Design]",
+              "RelativeToolTip": "Resources\\Mhs_JadwalPerkuliahan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-29T06:39:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DasboardMahasiswa.vb [Design]",
+              "DocumentMoniker": "D:\\Projek Visual Studio\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\Resources\\DasboardMahasiswa.vb",
+              "RelativeDocumentMoniker": "AplikasiKRSKHS\\Resources\\DasboardMahasiswa.vb",
+              "ToolTip": "D:\\Projek Visual Studio\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\AplikasiKRSKHS\\Resources\\DasboardMahasiswa.vb [Design]",
+              "RelativeToolTip": "AplikasiKRSKHS\\Resources\\DasboardMahasiswa.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-22T05:36:31.24Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
